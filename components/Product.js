@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import SectionTitle from "./sectionTitle";
+import SectionTitle from "./SectionTitle";
 import data from "../data/products.json";
 
 const Product = () => {

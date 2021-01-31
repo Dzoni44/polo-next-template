@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "slug": "product_1",
+    "title": "Cotton Tshirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet.",
+    "price": "48.256",
+    "image": "/images/products/product_1.jpg"
+  },
+  {
+    "id": 2,
+    "slug": "product_2",
+    "title": "Grey Sweatshirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet.",
+    "price": "48.256",
+    "image": "/images/products/product_2.jpg"
+  },
+  {
+    "id": 3,
+    "slug": "product_3",
+    "title": "Pocket Tshirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet.",
+    "price": "48.256",
+    "image": "/images/products/product_3.jpg"
+  },
+  {
+    "id": 4,
+    "slug": "product_4",
+    "title": "Cotton Tshirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet.",
+    "price": "48.256",
+    "image": "/images/products/product_4.jpg"
+  },
+  {
+    "id": 5,
+    "slug": "product_5",
+    "title": "Pocket Tshirt",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing tristique hendrerit laoreet.",
+    "price": "48.256",
+    "image": "/images/products/product_5.jpg"
+  } 
+]

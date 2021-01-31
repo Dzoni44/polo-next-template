@@ -1,0 +1,16 @@
+[ 
+  {
+    "id": 1,
+    "title": "Beautifully simple, code.",
+    "text": "LCodelander is a beautifully simple, clean and lightweight landing page template for all types of businesses, with bold and bright colours.",
+    "image": "/images/slider/slide_2.jpg",
+    "url": "/#"
+  },
+  {
+    "id": 2,
+    "title": "Polo Creative.",
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/images/slider/slide_1.jpg",
+    "url": "/#"
+  }
+]
